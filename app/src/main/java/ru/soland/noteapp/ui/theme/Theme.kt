@@ -22,4 +22,3 @@ fun NoteAppTheme(darkTheme: Boolean = true, content: @Composable() () -> Unit) {
         content = content
     )
 }
-
